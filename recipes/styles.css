@@ -1,0 +1,27 @@
+body{
+    background-color:#121212;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    height:auto;
+    width: 400px;
+
+}
+ul,ol{
+    font-size: 22px;
+    color: #1db954;
+
+    
+}
+a{
+    color: #1db954;
+}
+h2,h3{
+    color:white;
+}
+.recipes .list{
+    color: white;
+}
