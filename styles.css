@@ -12,16 +12,39 @@ img{
 }
 ul,ol{
     font-size: 22px;
-    color: #1db954;
 
     
 }
 a{
-    color: #1db954;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
 }
 h2,h3{
     color:white;
+    font-weight: bold;
 }
 .recipes .list{
     color: white;
 }
+.card{
+    box-sizing: border-box;
+    height: 320px;
+    width: 420px;
+    background-color: #2c2c2c;
+    margin: 37px;
+    border: 1px solid #1db954;
+    text-align: center;
+    display: inline-block;
+}
+.card img{
+    height: 270px;
+    width: 100%;    
+}
+.lsg{
+    margin-left: 10%;
+}
+.lsg .head{
+    margin-left: -150px;
+}
+
