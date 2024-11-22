@@ -2,7 +2,7 @@
 
 A simple web project to practice foundational HTML skills as part of the [Odin Project](https://www.theodinproject.com/). This project demonstrates the creation of a basic recipe website with multiple pages and links between them
 
-  https://nikhiln0702.github.io/odin-recipes/
+  https://nikhiln0702.github.io/recipes-page/
 
 ## Features
 - **Homepage**: Contains links to individual recipe pages.
